@@ -17,6 +17,7 @@ This project aims to analysis pizza sales dataset using  SQl and Power BI
 
 # Overview Dashboard
 ![dashboard](dashboard.PNG)
+[Click Here](https://github.com/AhmedWaela/My-project/blob/main/KPI%20SQL%202023.pbix)
 
 Process of the project
 
