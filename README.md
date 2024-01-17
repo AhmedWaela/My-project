@@ -70,7 +70,7 @@ KPI's
 8.Total revenue by pizza size 
 9.AVG unit price 
 
-
+to Download the SQL KPIs documentation ![Pizza restaurant KPI-s queries]
 
 
 
