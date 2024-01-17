@@ -57,15 +57,25 @@ to access dataset [Click Here](Pizza_sales.csv)
 
 # SQL
 SQl queries
+
 KPI's
+
 1.AVG order revenue 
+
 2.AVG pizza per order
+
 3.Total pizza sold
+
 4.Total orders
+
 5.Total Revenue
+
 6.Total Orders by month 
+
 7.Total Orders by category
+
 8.Total revenue by pizza size 
+
 9.AVG unit price 
 
 
