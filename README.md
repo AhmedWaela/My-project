@@ -1,5 +1,5 @@
 # Pizza Sales Project
-Pizza Sales Data analysis using   SQL + Power BI + Power Query
+Pizza Sales Data analysis using   SQL + Power BI 
 
 # Table of Contents
 1.Introduction
@@ -13,7 +13,7 @@ Pizza Sales Data analysis using   SQL + Power BI + Power Query
 5.Usage
 
 # Intoduction
-This project aims to analysis pizza sales dataset using  SQl and Power BI + Power Query
+This project aims to analysis pizza sales dataset using  SQl and Power BI 
 
 # Overview Dashboard
 ![dashboard](dashboard.PNG)
@@ -21,7 +21,7 @@ This project aims to analysis pizza sales dataset using  SQl and Power BI + Powe
 Process of the project
 
 This project analyze pizza sales dataset and get insights from this data to help the stakeholders to undersand thje data and how it's gone.
-First I  go to SQL to answer to some KPIs the stakeholder asks for and finally I gone to Power BI to visual my interactive dashboard to make it better to understood.
+First I  go to SQL to answer to some KPIs the stakeholder asks for it then I gone to Power BI to visual my interactive dashboard to make it better to understood.
 
 # Dataset
 
@@ -52,7 +52,7 @@ pizza ingredents
 
 pizza name
 
-to access dataset [Click Here]()
+to access dataset [Click Here](Pizza_sales.csv)
 
 
 # SQL
@@ -68,7 +68,14 @@ KPI's
 8.Total revenue by pizza size 
 9.AVG unit price 
 
-to Download the SQL KPIs documentation [Pizza restaurant KPI-s queries]
+to Download the SQL KPIs documentation [Pizza restaurant KPI-s queries.docx.pdf]
+
+# Usage
+to acces the Dashboard [KPI SQL 2023]
+
+to access the SQL Kpis and Documentation [Pizza restaurant KPI-s queries.docx.pdf]
+
+to access the Dataset [pizza_sales.csv]
 
 
 
