@@ -10,12 +10,10 @@ Pizza Sales Data analysis using   SQL + Power BI + Power Query
 
 4.SQL
 
-6.Power Query
-
-7.Usage
+5.Usage
 
 # Intoduction
-This project aims to analysis pizza sales dataset using  SQl and Power BI
+This project aims to analysis pizza sales dataset using  SQl and Power BI + Power Query
 
 # Overview Dashboard
 ![dashboard](dashboard.PNG)
@@ -70,7 +68,7 @@ KPI's
 8.Total revenue by pizza size 
 9.AVG unit price 
 
-to Download the SQL KPIs documentation ![Pizza restaurant KPI-s queries]
+to Download the SQL KPIs documentation [Pizza restaurant KPI-s queries]
 
 
 
