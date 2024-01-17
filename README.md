@@ -68,14 +68,15 @@ KPI's
 8.Total revenue by pizza size 
 9.AVG unit price 
 
-to Download the SQL KPIs documentation [Pizza restaurant KPI-s queries.docx.pdf]
+to Download the SQL KPIs documentation  [Click Here][Pizza restaurant KPI-s queries.docx.pdf]
 
 # Usage
-to acces the Dashboard [KPI SQL 2023]
+to acces the Dashboard  [Click Here](KPI SQL 2023)
 
-to access the SQL Kpis and Documentation [Pizza restaurant KPI-s queries.docx.pdf]
+to access the SQL Kpis and Documentation [Click Here](Pizza restaurant KPI-s queries)
 
-to access the Dataset [pizza_sales.csv]
+to access the Dataset [Click Here](Pizza_sales.csv)
+
 
 
 
