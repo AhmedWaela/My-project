@@ -71,7 +71,7 @@ KPI's
 to Download the SQL KPIs documentation  [Click Here][Pizza restaurant KPI-s queries.docx.pdf]
 
 # Usage
-to acces the Dashboard  [Click Here](KPI SQL 2023)
+to acces the Dashboard  [Click Here](KPI SQL 2023.pbix)
 
 to access the SQL Kpis and Documentation [Click Here](Pizza restaurant KPI-s queries)
 
