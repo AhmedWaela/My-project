@@ -1,5 +1,5 @@
 # GDSC Bootcamp Data Analysis Project
-Car Inof Data analysis using  SQL + Power BI + Power Query
+Pizza Sales Data analysis using  SQL + Power BI + Power Query
 
 
 # Intoduction
