@@ -13,7 +13,7 @@ Pizza Sales Data analysis using   SQL + Power BI
 5.Usage
 
 # Intoduction
-This project aims to analysis pizza sales dataset using  SQl and Power BI 
+This project analyze pizza sales dataset using SQl and Power BI 
 
 # Overview Dashboard
 ![dashboard](dashboard.PNG)
@@ -21,8 +21,8 @@ This project aims to analysis pizza sales dataset using  SQl and Power BI
 
 Process of the project
 
-This project analyze pizza sales dataset and get insights from this data to help the stakeholders to undersand thje data and how it's gone.
-First I  go to SQL to answer to some KPIs the stakeholder asks for it then I gone to Power BI to visual my interactive dashboard to make it better to understood.
+This project analyze pizza sales dataset and get insights from this data to help the stakeholders to undersand thie data and how it's gone.
+First I went to SQL to answer to some KPIs the stakeholder asks for it then I went to Power BI to visual my interactive dashboard to make it better to understood.
 
 # Dataset
 
