@@ -52,8 +52,7 @@ pizza ingredents
 
 pizza name
 
-to access dataset [Click Here](Pizza_sales.csv)
-
+to access dataset [Click Here](https://github.com/AhmedWaela/My-project/blob/main/pizza_sales%20.csv)
 
 # SQL
 SQl queries
