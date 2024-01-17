@@ -77,6 +77,7 @@ KPI's
 
 9.AVG unit price 
 
+to Download the SQL KPIs documentation [Click Here](https://github.com/sahermuhamed1/miniature-pancake/blob/main/bootcamp.docx)
 
 
 
