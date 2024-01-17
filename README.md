@@ -6,7 +6,7 @@ Car Inof Data analysis using  SQL + Power BI + Power Query
 This project aims to analysis pizza sales dataset using  SQl and Power BI
 
 # Overview Dashboard
-![Dashboard](dashboard.png)
+![dashboard](dashboard.PNG)
 
 Process of the project
 
